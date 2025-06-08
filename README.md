@@ -105,9 +105,8 @@ Use of prepared statements or parameterized queries to prevent SQL injection
 
 Secure session management to protect user data during navigation
 
-![Dashboard](![Uploading Front mpage.png…]()
-g)
-
+![Image 1](![Front mpage](https://github.com/user-attachments/assets/b781d2eb-ccfa-4e68-98d2-af45219403c2)
+)
 ![Screenshot (88)](https://github.com/user-attachments/assets/be65e66d-6071-4085-a8df-c865528dceca)
 
 ![Screenshot (89)](https://github.com/user-attachments/assets/7a529208-0fb5-414f-b2f8-671e5d794388)
@@ -118,8 +117,7 @@ g)
 
 ![Screenshot (94)](https://github.com/user-attachments/assets/9580df1b-9a84-4c82-bb3a-378f69ab28f6)
 
-![Dashboard](![time](https://github.com/user-attachments/assets/dc5ad8ea-60f7-4e1e-909a-3b05bd83e909)
-)
+
 
 ![Screenshot (122)](https://github.com/user-attachments/assets/fd0b5cea-87d4-484c-a5a9-eea03c089e70)
 
@@ -128,3 +126,5 @@ g)
 
 ![Screenshot (124)](https://github.com/user-attachments/assets/35a82b09-5992-4ab3-babf-36246e89d0e3)
 
+![Image 1](![Screenshot (123)](https://github.com/user-attachments/assets/2217126c-458b-4e96-b9e5-d2d7c354e22f)
+)
